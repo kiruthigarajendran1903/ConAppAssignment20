@@ -1,0 +1,6 @@
+D:\SimpliLearn\Day-17\BookLib\BookLib\bin\Debug\BookLib.dll
+D:\SimpliLearn\Day-17\BookLib\BookLib\bin\Debug\BookLib.pdb
+D:\SimpliLearn\Day-17\BookLib\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+D:\SimpliLearn\Day-17\BookLib\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Day-17\BookLib\BookLib\obj\Debug\BookLib.dll
+D:\SimpliLearn\Day-17\BookLib\BookLib\obj\Debug\BookLib.pdb
